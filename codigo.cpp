@@ -182,11 +182,11 @@ pair<int,int> substringComunMasLargo(const string &s1, const string &s2) {
 
 int main() {
     // Nombres fijos de archivos
-    string archTrans1 = "transmission1.txt";
-    string archTrans2 = "transmission2.txt";
-    string archMcode1 = "mcode1.txt";
-    string archMcode2 = "mcode2.txt";
-    string archMcode3 = "mcode3.txt";
+    string archTrans1 = "transmission01.txt";
+    string archTrans2 = "transmission02.txt";
+    string archMcode1 = "mcode01.txt";
+    string archMcode2 = "mcode02.txt";
+    string archMcode3 = "mcode03.txt";
 
     string trans1 = leerArchivoLimpio(archTrans1);
     string trans2 = leerArchivoLimpio(archTrans2);
